@@ -1,0 +1,99 @@
+#volunteerContainerWrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 100%;
+}
+
+#volunteersContainer {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+
+	gap: 3rem;
+}
+
+.volunteerCard {
+	/* width: 100%; */
+	height: 100%;
+	border-radius: 30px;
+	border: 0.5px solid rgba(0, 0, 255, 0.8);
+	padding: 0.5rem;
+	text-align: center;
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	/* justify-content: center; */
+	align-items: center;
+	&:hover {
+		background-color: rgba(0, 0, 255, 0.1);
+	}
+	width: 20rem;
+	height: 20rem;
+	overflow: scroll;
+}
+
+.cardDetails {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	text-align: right;
+}
+
+.volunteerImage {
+	display: flex;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+}
+
+.volunteersInfoContainer {
+	p {
+		all: unset;
+	}
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	/* justify-content: center; */
+	/* align-items: center; */
+	gap: 1rem;
+}
+
+.areasContainer {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	gap: 0.3rem;
+	flex-wrap: wrap;
+}
+
+.areaTag {
+	border: 1px solid black;
+	font-weight: bold;
+	padding: 0.5rem;
+	border-radius: 30px;
+	min-width: fit-content;
+	/* width: 3rem; */
+}
+
+.weekDaysContainer {
+	display: flex;
+	justify-content: center;
+	/* width: 100%; */
+	gap: 1rem;
+	font-size: 18px;
+}
+
+.workDay {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.professionsContainer {
+	display: flex;
+	justify-content: center;
+	gap: 0.5rem;
+	width: 100%;
+	/* overflow: scroll; */
+	flex-wrap: wrap;
+}

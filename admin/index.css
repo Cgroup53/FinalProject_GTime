@@ -1,0 +1,73 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	direction: rtl;
+	/* color: rgb(1, 158, 151);, */
+	/* overflow-y: scroll; */
+
+	::-webkit-scrollbar {
+		display: none;
+	}
+}
+
+body {
+	margin: 0;
+	width: 100svw;
+	height: 100svh;
+	background-color: rgba(229, 233, 255, 0.5);
+	/* background-color: black; */
+	display: flex;
+	flex-direction: column;
+	overflow: scroll;
+}
+
+button {
+	border-radius: 15px;
+	height: fit-content;
+	padding: 0.5rem;
+	cursor: pointer;
+
+	&:hover {
+		background-color: rgba(0, 0, 255, 0.2);
+	}
+	border: none;
+}
+
+.shadow {
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+		rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+		rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+input {
+	border-radius: 15px;
+	height: fit-content;
+}
+
+select {
+	border-radius: 15px;
+}
+
+.fadein {
+	animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.submitBtn {
+	border-radius: 15px;
+	padding: 1rem;
+	font-size: large;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+		rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.contentBackground {
+	background-color: rgba(109, 188, 203, 0.9);
+}

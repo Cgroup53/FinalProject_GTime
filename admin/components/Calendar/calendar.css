@@ -1,0 +1,48 @@
+.calendarContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: center;
+}
+
+.monthSelector {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+}
+
+.monthArrow {
+	cursor: pointer;
+	background-color: transparent;
+	border: none;
+	font-size: 2rem;
+	color: blue;
+}
+
+.calendarView {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	gap: 0.5rem;
+	height: fit-content;
+}
+.dayName {
+	font-weight: bold;
+}
+
+.day {
+	border: 1px solid rgba(0, 0, 255, 0.5);
+	cursor: pointer;
+}
+
+.day:hover,
+.today {
+	border: 1px solid rgba(0, 0, 255, 0.8);
+	background-color: rgba(0, 0, 255, 0.5);
+}
+
+.dayName,
+.day {
+	padding: 0.3rem;
+	text-align: center;
+}

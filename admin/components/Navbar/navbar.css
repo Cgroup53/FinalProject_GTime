@@ -1,0 +1,53 @@
+#navbar {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	font-size: 1.5rem;
+	background-image: linear-gradient(
+		to bottom left,
+		white,
+		rgba(0, 0, 255, 0.1),
+		rgba(255, 255, 0, 0.1)
+	);
+}
+
+.options-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	gap: 1rem;
+}
+
+.nav-option {
+	cursor: pointer;
+	color: blue;
+	&:hover {
+		font-weight: bold;
+		color: rgba(0, 0, 0, 0.8);
+	}
+}
+
+.logo {
+	max-width: 20svw;
+	max-height: 10svh;
+}
+
+.profile-container {
+	cursor: pointer;
+	color: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0.5rem;
+}
+
+.active-nav-option {
+	font-weight: bold;
+	color: rgba(0, 0, 0, 0.8);
+}
+
+.left-container {
+	display: flex;
+	gap: 1rem;
+	align-items: center;
+}

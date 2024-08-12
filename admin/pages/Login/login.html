@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="../../index.css" />
+		<link rel="stylesheet" href="login.css" />
+		<title>גדולים מהחיים - עובדים</title>
+	</head>
+	<body>
+		<div class="loginContainer">
+			<div class="loginPanel shadow fadein">
+				<img src="../../assets/logo.jpg" />
+				<h1>גדולים מהחיים - כניסת עובדים</h1>
+				<div class="loginForm">
+					<label for="username">אימייל:</label>
+					<input id="username" type="text" />
+					<label for="password">סיסמה:</label>
+					<input id="password" type="password" />
+					<a href="../ForgotPassword/forgotPassword.html"> שכחתי סיסמא </a>
+				</div>
+				<button class="loginButton" id="login">התחבר</button>
+				<button class="loginButton" id="register">הרשמה</button>
+			</div>
+		</div>
+		<script
+			type="text/javascript"
+			src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+		></script>
+		<!-- <script type="text/javascript">
+			(function () {
+				emailjs.init({
+					publicKey: "q8KF_svNbkpNTNIeR",
+				});
+			})();
+		</script> -->
+
+		<script type="module" src="../../index.js"></script>
+		<script type="module" src="../../dataStore.js"></script>
+		<script type="module" src="login.js"></script>
+	</body>
+</html>

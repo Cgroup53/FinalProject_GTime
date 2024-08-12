@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="../../index.css" />
+		<link rel="stylesheet" href="../../components/Navbar/navbar.css" />
+		<link rel="stylesheet" href="dashboard.css" />
+		<title>דשבורד נתונים</title>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<div id="dashboardContainer" class="contentBackground">
+			<div id="dashboardNavbar" class="shadow">
+				<button id="activityReportBtn" class="dashboardButton">
+					דוח פעילויות
+				</button>
+				<button id="volunteerReportBtn" class="dashboardButton">
+					דוח מתנדבים
+				</button>
+				<button id="employeeReportBtn" class="dashboardButton">
+					דוח עובדים
+				</button>
+				<button id="periodicReportsBtn" class="dashboardButton">
+					דוח שעות לפי תקופה
+				</button>
+			</div>
+			<div id="dashboardContent"></div>
+		</div>
+		<script type="module" src="../../components/Navbar/navbar.js"></script>
+		<script type="module" src="../../dataStore.js"></script>
+		<script type="module" src="../../index.js"></script>
+		<script type="module" src="dashboard.js"></script>
+	</body>
+</html>

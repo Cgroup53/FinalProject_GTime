@@ -1,0 +1,95 @@
+.createActivityPanel {
+	width: fit-content;
+	min-width: 50rem;
+	height: fit-content;
+	border-radius: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+	padding: 1.5rem;
+	background-color: rgba(229, 233, 255, 0.5);
+	font-size: large;
+}
+
+.volunteeringsLayoutContainer {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	grid-template-columns: 1fr 5fr;
+}
+
+#volunteeringsContent {
+	width: 100%;
+}
+
+.activityRow {
+	border-radius: 15px;
+	border: 0.5px solid rgba(255, 255, 255, 0.8);
+	padding: 0.5rem;
+	width: 15rem;
+	text-align: center;
+	cursor: pointer;
+	&:hover {
+		background-color: rgba(0, 0, 255, 0.1);
+	}
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 10px,
+		rgba(0, 0, 0, 0.12) 0px -6px 10px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+		rgba(0, 0, 0, 0.17) 0px 10px 20px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.detailsItem {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	width: 100%;
+	gap: 0.5rem;
+
+	& label {
+		font-weight: bold;
+	}
+}
+
+.newActivityFormContainer {
+	display: grid;
+	grid-template-columns: 0.5fr 1fr;
+	/* width: 100%; */
+	gap: 1rem;
+	& textarea,
+	input,
+	select {
+		width: 20rem;
+		border-radius: 10px;
+		padding: 0.3rem;
+	}
+
+	& textarea {
+		width: 20rem;
+		height: 5rem;
+		outline: none;
+	}
+
+	& select {
+		width: 20.8rem;
+		border-radius: 10px;
+	}
+}
+
+.professionTag {
+	padding: 0.5rem;
+	border-radius: 30px;
+	border: 1px solid black;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.selectedProfessionsContainer {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	gap: 1rem;
+}

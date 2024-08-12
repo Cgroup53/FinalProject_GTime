@@ -1,0 +1,32 @@
+Volunteers:
+Get-  https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers
+Put-  https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers
+Post (register) - https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/Register
+Post (login)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/Login
+
+Employee:
+Get- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees
+Post (register)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Register
+Post (login)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Login
+Put- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Update
+
+Activities:
+Get, Post, Delete-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Activities
+Update-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Activities/Update
+
+Areas:
+Get, Post, Delete-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Areas
+Update-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Areas/Update
+
+Professions:
+Get, Post, Delete-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Professions
+Update- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Professions/Update
+
+Proposals:
+Get,Post-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Proposals
+
+הסוואגר כולו:
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/swagger/index.html 

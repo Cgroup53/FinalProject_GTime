@@ -1,0 +1,150 @@
+.volunteeringContentPanel {
+	width: 100%;
+	max-width: 60rem;
+	/* height: 90%; */
+	/* aspect-ratio: 1; */
+	border-radius: 30px;
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
+	align-items: center;
+	gap: 2rem;
+	padding: 1rem;
+	/* max-height: 100%; */
+	overflow: scroll;
+}
+
+.volunteeringCreationPanel {
+	width: fit-content;
+	min-width: 70rem;
+	/* width: 100%; */
+	height: fit-content;
+	border-radius: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 2rem;
+	padding: 1.5rem;
+	background-color: rgba(229, 233, 255, 0.5);
+}
+.volunteeringHeaderContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 80%;
+	align-items: center;
+}
+
+.volunteeringDetailsContainer {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	place-items: center;
+	width: 100%;
+}
+
+.detailsItem {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	width: 100%;
+	gap: 0.5rem;
+
+	& label {
+		font-weight: bold;
+	}
+}
+
+.volunteeringFormContainer {
+	display: grid;
+	grid-template-columns: 1fr 5fr;
+	gap: 1rem;
+	width: 100%;
+	padding: 1rem;
+
+	& textarea,
+	input,
+	select {
+		width: 50%;
+		border-radius: 30px;
+	}
+
+	& textarea {
+		height: 5rem;
+		outline: none;
+	}
+
+	& select {
+		border-radius: 30px;
+	}
+}
+.professionTag {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+	padding: 0.8rem;
+	border-radius: 30px;
+	align-items: center;
+	justify-content: center;
+	width: 7rem;
+	height: 2.5rem;
+	label {
+		all: unset;
+		font-weight: bold;
+		font-size: 15px;
+	}
+	p {
+		all: unset;
+		font-size: 13px;
+	}
+	&:hover {
+		background-color: rgba(0, 0, 255, 0.1);
+		cursor: pointer;
+		font-size: larger;
+		font-weight: bold;
+	}
+	text-align: center;
+}
+
+.professionTagsContainer {
+	display: flex;
+	gap: 1rem;
+}
+
+.activityPanelButtonContainer {
+	display: flex;
+	justify-content: center;
+	button {
+		width: 6rem;
+	}
+}
+
+.volunteersInfoContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 1rem;
+	align-items: center;
+}
+
+.volunteersInfoTable {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow: scroll;
+}
+
+.volunteerRow {
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	place-items: center;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	gap: 0.5rem;
+}

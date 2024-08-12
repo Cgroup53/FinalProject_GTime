@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="../../index.css" />
+		<link rel="stylesheet" href="./home.css" />
+		<link rel="stylesheet" href="../../components/Navbar/navbar.css" />
+		<link rel="stylesheet" href="../../components/Calendar/calendar.css" />
+		<link rel="stylesheet" href="../../components/CreateActivity/createActivity.css">
+		<link
+			rel="stylesheet"
+			href="../../components/HospitalsContainer/hospitalsContainer.css"
+		/>
+		<link rel="stylesheet" href="../../components/ActivityPanel/activityPanel.css">
+		<title>גדולים מהחיים - דף בית</title>
+		<link rel="stylesheet" href="/components/ShowActivityModal/ShowActivityModal.css">
+		<script src=" https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js "></script>
+	</head>
+	<body>
+		<div id="navbar"></div>
+		<div id="smartAlert">
+		</div>
+		<div class="contentLayout">
+			<div class="sideBar">
+				<div id="calendarContainer" class="content">
+
+				</div>
+				<div class="homeButtonPanel">
+					<button id="createNewEventButton">צור התנדבות חדשה</button>
+				</div>
+			</div>
+			<div id="activityViewerPanel" class="content"></div>
+			<div id="createActivityModal"></div>
+			<div id="activityModalWrapper"></div>
+		</div>
+		<div id="activityModal"></div>
+		<script
+			type="module"
+			src="../../components/ActivityViewerPanel.js"
+		></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+		<script type="module" src="../../components/Calendar/calendar.js"></script>
+		<script type="module" src="../../index.js"></script>
+		<script type="module" src="./home.js"></script>
+		<script type="module" src="../../components/Navbar/navbar.js"></script>
+		<script
+			type="module"
+			src="../../components/HospitalsContainer/hospitalsContainer.js"
+		></script>
+		<script type="module" src="../../dataStore.js""></script>
+		<script type="module" src="../../api/volunteersAPI.js"></script>
+		<script type="module" src="../../components/ActivityModal/activityModal.js"></script>
+		<script type="module" src="../../logic/smartElement.js"></script>
+		<script type="module" src="/components/ShowActivityModal/ShowActivityModal.js"></script>
+	</body>
+</html>
