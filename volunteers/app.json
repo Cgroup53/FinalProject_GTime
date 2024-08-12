@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "volunteers",
+    "slug": "volunteers",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "3cfee954-3a77-4565-9ef9-fbc3fc7fb13d"
+      }
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+          "recordAudioAndroid": true
+        },
+     
+      ],
+      [   "expo-location",
+      {
+        "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+      }]
+    ],
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/3cfee954-3a77-4565-9ef9-fbc3fc7fb13d"
+    },
+    "android": {},
+    "ios": {}
+  }
+}

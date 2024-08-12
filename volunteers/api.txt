@@ -1,0 +1,35 @@
+volunteer:
+Get-  https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers
+Put-  https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers
+Post (register) - https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/Register
+Post (login)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/Login
+Post(VolAct)-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/VolAct -צריך להכניס את המייל והפעילות בלבד
+Post(By Email)-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers/VolByEmail- קבלת פרטי מתנדב ממיל בלבד
+Delete (delete activity from volunteer)- 'https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Volunteers- (יש להכניס מספר פעילות ומייל)
+
+Employee:
+Get- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees
+Post (register)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Register
+Post (login)- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Login
+Put- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Employees/Update
+
+Activities:
+Get, Post, Delete-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Activities
+Update-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Activities/Update
+
+Areas:
+Get, Post, Delete-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Areas
+Update-https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Areas/Update
+
+Professions:
+Get, Post, Delete-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Professions
+Update- https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Professions/Update
+
+Proposals:
+Get,Post,Put-
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/api/Proposals
+
+הסוואגר כולו:
+https://proj.ruppin.ac.il/cgroup53/test2/tar1/swagger/index.html
