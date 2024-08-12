@@ -1,0 +1,203 @@
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\appsettings.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.exe
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.deps.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.runtimeconfig.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.Up2Date
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.genruntimeconfig.cache
+C:\Users\shani\source\repos\ServerSide\ServerSide\obj\Debug\net6.0\ref\ServerSide.dll
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\julia\Downloads\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\Downloads\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\shani\Downloads\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\shani\Downloads\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\appsettings.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.exe
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.deps.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.runtimeconfig.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.csproj.Up2Date
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ServerSide.genruntimeconfig.cache
+C:\Users\shani\source\repos\ServerSide (3)\ServerSide (2)\ServerSide\ServerSide\obj\Debug\net6.0\ref\ServerSide.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\appsettings.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\ServerSide.exe
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\ServerSide.deps.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\ServerSide.runtimeconfig.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.Up2Date
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ServerSide.genruntimeconfig.cache
+C:\Users\shani\source\repos\ServersifeFinal\ServerSide\obj\Debug\net6.0\ref\ServerSide.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\appsettings.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\ServerSide.exe
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\ServerSide.deps.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\ServerSide.runtimeconfig.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\ServerSide.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\ServerSide.pdb
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.csproj.Up2Date
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ServerSide.genruntimeconfig.cache
+C:\Users\EliKa\Downloads\ServerSideFinal\ServerSideFinal\ServerSide\obj\Debug\net6.0\ref\ServerSide.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\appsettings.json
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\ServerSide.exe
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\ServerSide.deps.json
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\ServerSide.runtimeconfig.json
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSideFinal1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.csproj.AssemblyReference.cache
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.AssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets\msbuild.ServerSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerSide.props
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerSide.props
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerSide.props
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\scopedcss\bundle\ServerSide.styles.css
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.csproj.Up2Date
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.dll
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\refint\ServerSide.dll
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.pdb
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ServerSide.genruntimeconfig.cache
+C:\Users\shani\source\repos\ServerSideFinal1\obj\Debug\net6.0\ref\ServerSide.dll
