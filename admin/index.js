@@ -1,41 +1,32 @@
 import { dataStore } from "./dataStore.js";
 
+const BASE_URL = 'https://proj.ruppin.ac.il/cgroup53/test2/tar2';
+
 const goToLogin = () => {
-	window.location.href = "http://127.0.0.1:5500/pages/Login/login.html";
+	window.location.href = `${BASE_URL}/pages/Login/login.html`;
 };
 
 const goToHome = () => {
-	window.location.href = "http://127.0.0.1:5500/pages/Home/home.html";
+	window.location.href = `${BASE_URL}/pages/Home/home.html`;
 };
 
 const isBasePage = () => {
-	return (
-		window.location.href === "http://127.0.0.1:5500/" ||
-		window.location.href === "http://127.0.0.1:5500/index.html"
-	);
+	return window.location.href == '/' || window.location.href == '/index.html'
 };
 
 const isLoginPage = () => {
-	return (
-		window.location.href === "http://127.0.0.1:5500/pages/Login/login.html"
-	);
+	return window.location.href.indexOf('login.html') != -1;  
 };
 
 const isForgotPasswordPage = () => {
-	return (
-		window.location.href ===
-		"http://127.0.0.1:5500/pages/ForgotPassword/forgotPassword.html"
-	);
+	return window.location.href.indexOf('forgotPassword.html') != -1;
 };
 
 const isRegisterPage = () => {
-	return (
-		window.location.href ===
-		"http://127.0.0.1:5500/pages/Register/register.html"
-	);
+	return window.location.href.indexOf('register.html') != -1;
 };
 
-console.log("dataStore.getData()", window.location.href);
+
 if (
 	dataStore.getData() === null &&
 	!isLoginPage() &&

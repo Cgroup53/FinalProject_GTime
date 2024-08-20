@@ -267,7 +267,7 @@ export const dataStore = {
 	getData: () => {
 		// const dataFromStorage = getDataFromLocalStorage();
 		// return {...dataFromStorage};
-		return appData;
+		return appData
 	},
 
 	loadData: () => {
@@ -286,6 +286,6 @@ export const dataStore = {
 	},
 };
 
-// dataStore.saveData();
+//dataStore.saveData();
 dataStore.loadData();
 console.log(dataStore.getData());
